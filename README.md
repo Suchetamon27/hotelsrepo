@@ -28,9 +28,7 @@ The website is built with clean code, modern UI/UX, and smooth animations to sim
 ---
 
 ## 🚀 Live Demo
-
-🔗 **View Website:** [https://yourusername.github.io/hotel-booking-system/](https://yourusername.github.io/hotel-booking-system/)
-
+🔗 **View Website:** [https://]
 ---
 
 ## 🛠️ Tech Stack
@@ -92,7 +90,7 @@ Option 1: Double-click on index.html
 Option 2: Use VS Code Live Server
   npx live-server
 
-4. Open in browser: http://localhost:5500
+4. Open in browser: http://
 
 💡 Future Improvements:
 
@@ -124,7 +122,7 @@ Sucheta Mondal
 
 Add a screenshot here for better presentation on GitHub.
 
-![Hotel Solstice Retreat Preview](assets/images/preview.png)
+![Hotel Solstice Retreat Preview](assets/images/preview.)
 
 
 📜 License
