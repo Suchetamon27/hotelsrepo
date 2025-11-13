@@ -34,19 +34,12 @@ The website is built with clean code, modern UI/UX, and smooth animations to sim
 ## 🛠️ Tech Stack
 
 | Technology | Purpose |
-
 |-------------|----------|
-
 | **HTML5** | Website structure |
-
 | **CSS3** | Styling and layout design |
-
 | **JavaScript (ES6)** | Dynamic interactivity |
-
 | **Remixicon** | Modern icons |
-
 | **Google Fonts** | Typography (Playfair Display, Poppins) |
-
 | **ScrollReveal.js** | Scroll-based animations |
 
 ---
@@ -67,17 +60,23 @@ The website is built with clean code, modern UI/UX, and smooth animations to sim
 ## 📂 Folder Structure
 
 hotel-booking-system/
-│
-├── index.html # Main HTML file
-├── styles.css # CSS styling
-├── main.js # JavaScript logic
+├── index.html
+├    # Main HTML file
+├── styles.css
+├    # CSS styling
+├── main.js 
+├   # JavaScript logic
 │
 ├── assets/
-│ ├── images/ # Room, menu, and background images
-│ ├── video/ # Hotel intro video
-│ ├── icons/ # Icon resources
+│ ├── images/ 
+├   # Room, menu, and background images
+│ ├── video/
+├    # Hotel intro video
+│ ├── icons/ 
+├    # Icon resources
 │
-└── README.md # Documentation
+└── README.md 
+├    # Documentation
 
 
 ---
