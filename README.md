@@ -60,23 +60,16 @@ The website is built with clean code, modern UI/UX, and smooth animations to sim
 ## 📂 Folder Structure
 
 hotel-booking-system/
-├── index.html
-├    # Main HTML file
-├── styles.css
-├    # CSS styling
-├── main.js 
-├   # JavaScript logic
+├── index.html # Main HTML file
+├── styles.css # CSS styling
+├── main.js # JavaScript logic
 │
 ├── assets/
-│ ├── images/ 
-├   # Room, menu, and background images
-│ ├── video/
-├    # Hotel intro video
-│ ├── icons/ 
-├    # Icon resources
+│ ├── images/# Room, menu, and background images
+│ ├── video/ # Hotel intro video
+│ ├── icons/ # Icon resources
 │
-└── README.md 
-├    # Documentation
+└── README.md # Documentation
 
 
 ---
