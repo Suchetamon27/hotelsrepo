@@ -34,12 +34,19 @@ The website is built with clean code, modern UI/UX, and smooth animations to sim
 ## 🛠️ Tech Stack
 
 | Technology | Purpose |
+
 |-------------|----------|
+
 | **HTML5** | Website structure |
+
 | **CSS3** | Styling and layout design |
+
 | **JavaScript (ES6)** | Dynamic interactivity |
+
 | **Remixicon** | Modern icons |
+
 | **Google Fonts** | Typography (Playfair Display, Poppins) |
+
 | **ScrollReveal.js** | Scroll-based animations |
 
 ---
