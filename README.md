@@ -117,11 +117,6 @@ Sucheta Mondal
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
-📸 Project Preview
-
-![Hotel Solstice Retreat Preview](assets/images/preview.jpg)
-
-
 📜 License
 This project is licensed under the MIT License — feel free to modify and use it for your own learning or projects.
 
