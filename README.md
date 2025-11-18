@@ -78,7 +78,7 @@ hotel-booking-system/
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/hotel-booking-system.git
+   git clone git clone https://github.com/Suchetamon27/hotelsrepo.git
 
 2. Navigate to the project folder
    cd hotel-booking-system
@@ -118,6 +118,7 @@ Sucheta Mondal
 </p>
 
 📸 Project Preview
+
 
 Add a screenshot here for better presentation on GitHub.
 
