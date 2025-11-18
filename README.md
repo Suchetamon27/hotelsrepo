@@ -28,7 +28,7 @@ The website is built with clean code, modern UI/UX, and smooth animations to sim
 ---
 
 ## 🚀 Live Demo
-🔗 **View Website:** [https://]
+🔗 **View Website:** [https://suchetamon27.github.io/hotelsrepo/]
 ---
 
 ## 🛠️ Tech Stack
@@ -89,7 +89,7 @@ Option 1: Double-click on index.html
 Option 2: Use VS Code Live Server
   npx live-server
 
-4. Open in browser: http://
+4. Open in browser: https://suchetamon27.github.io/hotelsrepo/
 
 💡 Future Improvements:
 
