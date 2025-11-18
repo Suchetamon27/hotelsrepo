@@ -119,9 +119,6 @@ Sucheta Mondal
 
 📸 Project Preview
 
-
-Add a screenshot here for better presentation on GitHub.
-
 ![Hotel Solstice Retreat Preview](assets/images/preview.)
 
 
