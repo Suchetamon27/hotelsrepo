@@ -119,7 +119,7 @@ Sucheta Mondal
 
 📸 Project Preview
 
-![Hotel Solstice Retreat Preview](assets/images/preview.)
+![Hotel Solstice Retreat Preview](assets/images/preview.jpg)
 
 
 📜 License
